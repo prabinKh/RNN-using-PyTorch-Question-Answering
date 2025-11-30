@@ -8,6 +8,7 @@ This repository contains a Recurrent Neural Network (RNN)-based Question-Answeri
 - Vocabulary building from question-answer pairs
 - Implementation of an RNN model for text-based QA
 - Training and evaluation of the QA model using PyTorch
+- 
 
 ## Dataset
 The model is trained using `100_Unique_QA_Dataset.csv`, which contains unique question-answer pairs for supervised learning.
